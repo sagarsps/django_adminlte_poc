@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'adminlte3',
     # apps
     'polls.apps.PollsConfig',
+    'hr',
 ]
 
 MIDDLEWARE = [
